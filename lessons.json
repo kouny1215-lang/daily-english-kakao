@@ -1,0 +1,158 @@
+{
+  "lessons": [
+    {
+      "category": "리포팅·보고",
+      "title": "Weekly Status Update",
+      "titleKo": "주간 업무 보고",
+      "keyExpression": {
+        "expression": "Bottom line up front (BLUF)",
+        "meaning": "결론부터 먼저. 바쁜 임원에게 보고할 때 핵심 전달 방식"
+      },
+      "vocabulary": [
+        {"word": "on track", "meaning": "계획대로 진행 중", "example": "The project is on track for the May launch."},
+        {"word": "flag a concern", "meaning": "우려사항을 제기하다", "example": "I'd like to flag a concern about the timeline."},
+        {"word": "circle back", "meaning": "다시 확인하여 연락하다", "example": "Let me circle back with you on Friday."},
+        {"word": "bandwidth", "meaning": "업무 처리 여력", "example": "We don't have the bandwidth for another project."},
+        {"word": "actionable", "meaning": "실행 가능한", "example": "Can you give me actionable next steps?"}
+      ],
+      "sentences": [
+        {"en": "Here's where we stand as of this week.", "ko": "이번 주 기준 현황입니다."},
+        {"en": "Two items need your attention before we proceed.", "ko": "진행 전 두 가지 확인이 필요합니다."},
+        {"en": "We're slightly behind schedule but within the contingency buffer.", "ko": "일정보다 조금 늦지만 예비 기간 내에 있습니다."},
+        {"en": "I'll follow up with a written summary by end of day.", "ko": "오늘 중 서면 요약을 보내드리겠습니다."}
+      ]
+    },
+    {
+      "category": "리포팅·보고",
+      "title": "Flagging Risks and Issues",
+      "titleKo": "리스크·이슈 보고",
+      "keyExpression": {
+        "expression": "Keep me posted",
+        "meaning": "진행 상황 계속 공유해달라. 'in the loop'와 같은 의미"
+      },
+      "vocabulary": [
+        {"word": "headwind", "meaning": "역풍, 사업상 어려움", "example": "We're facing headwinds in the Asian market."},
+        {"word": "root cause", "meaning": "근본 원인", "example": "We've identified the root cause of the delay."},
+        {"word": "mitigation plan", "meaning": "리스크 완화 계획", "example": "Here's our mitigation plan for the issue."},
+        {"word": "contingency", "meaning": "만일의 대비책", "example": "We've built in a contingency for unexpected costs."},
+        {"word": "escalate", "meaning": "상위 단계로 올리다", "example": "I'll need to escalate this to the director."}
+      ],
+      "sentences": [
+        {"en": "I want to give you a heads-up on a developing situation.", "ko": "진행 중 상황에 대해 미리 말씀드리고 싶습니다."},
+        {"en": "The root cause appears to be a miscommunication with the vendor.", "ko": "근본 원인은 벤더와의 의사소통 문제로 보입니다."},
+        {"en": "Here's what we're doing to contain the impact.", "ko": "영향을 최소화하기 위한 조치입니다."},
+        {"en": "I recommend we escalate this before it becomes material.", "ko": "심각해지기 전 에스컬레이션을 권장드립니다."}
+      ]
+    },
+    {
+      "category": "임원 보고",
+      "title": "Presenting to Leadership",
+      "titleKo": "임원진 프레젠테이션",
+      "keyExpression": {
+        "expression": "That's a fair point",
+        "meaning": "상대 의견을 인정하되 자신 견해를 덧붙이는 외교적 표현"
+      },
+      "vocabulary": [
+        {"word": "at a high level", "meaning": "큰 틀에서, 개괄적으로", "example": "At a high level, we're seeing strong growth."},
+        {"word": "takeaway", "meaning": "핵심 시사점", "example": "The key takeaway is that retention improved 15%."},
+        {"word": "drill down into", "meaning": "세부사항을 파고들다", "example": "Let me drill down into the regional breakdown."},
+        {"word": "for context", "meaning": "배경 설명을 위해", "example": "For context, this is our third attempt."},
+        {"word": "as a recap", "meaning": "다시 정리하자면", "example": "As a recap, we have three main priorities."}
+      ],
+      "sentences": [
+        {"en": "I'll walk you through three main points today.", "ko": "오늘 세 가지 주요 사항을 설명드리겠습니다."},
+        {"en": "Happy to take questions after I walk through the summary.", "ko": "요약 설명 후 질문 받겠습니다."},
+        {"en": "Let me address that question directly.", "ko": "그 질문에 대해 직접 답변드리겠습니다."},
+        {"en": "That's a great point — and it's exactly why we made this decision.", "ko": "좋은 지적입니다. 바로 그래서 이런 결정을 내렸습니다."}
+      ]
+    },
+    {
+      "category": "숫자 설명",
+      "title": "Explaining Variance",
+      "titleKo": "실적 변동 설명",
+      "keyExpression": {
+        "expression": "In line with",
+        "meaning": "~에 부합하는. 실적이 예상 수준임을 'same as'보다 프로페셔널하게 표현"
+      },
+      "vocabulary": [
+        {"word": "variance", "meaning": "차이, 변동", "example": "There's a 5% unfavorable variance against budget."},
+        {"word": "driven by", "meaning": "~에 의해 좌우되는", "example": "The increase was largely driven by higher volume."},
+        {"word": "offset by", "meaning": "~에 의해 상쇄되다", "example": "Higher costs were offset by favorable FX."},
+        {"word": "run rate", "meaning": "현재 진행 속도 기준", "example": "At the current run rate, we'll hit our target."},
+        {"word": "one-off", "meaning": "일회성", "example": "This is a one-off impact and won't recur."}
+      ],
+      "sentences": [
+        {"en": "Revenue came in at 12 million, 3% above plan.", "ko": "매출은 1,200만으로 계획 대비 3% 상회했습니다."},
+        {"en": "The favorable variance was driven primarily by stronger demand.", "ko": "우호적 변동은 주로 수요 강세에 기인합니다."},
+        {"en": "This was partially offset by higher-than-expected costs.", "ko": "이는 예상보다 높은 비용에 일부 상쇄되었습니다."},
+        {"en": "Excluding the one-off, underlying performance is strong.", "ko": "일회성 요인을 제외하면 기저 실적은 견조합니다."}
+      ]
+    },
+    {
+      "category": "팀 리더십",
+      "title": "One-on-One Check-in",
+      "titleKo": "1:1 미팅 진행",
+      "keyExpression": {
+        "expression": "Take something off your plate",
+        "meaning": "부담을 덜어주다. 관리자가 부하의 업무 과부하를 인지하고 돕겠다는 표현"
+      },
+      "vocabulary": [
+        {"word": "check in", "meaning": "근황을 확인하다", "example": "I wanted to check in on how you're settling in."},
+        {"word": "on your plate", "meaning": "당신이 맡고 있는 일", "example": "What do you have on your plate this week?"},
+        {"word": "blocker", "meaning": "진행을 막는 장애물", "example": "Are there any blockers I can help remove?"},
+        {"word": "stretch assignment", "meaning": "성장을 위한 도전적 업무", "example": "This could be a good stretch assignment for you."},
+        {"word": "candid", "meaning": "솔직한 (honest보다 고급)", "example": "I appreciate you being candid with me."}
+      ],
+      "sentences": [
+        {"en": "How are you doing — really?", "ko": "요즘 어떠세요 — 진짜로요?"},
+        {"en": "What's going well, and what's not?", "ko": "잘 되는 건 뭐고, 안 되는 건 뭔가요?"},
+        {"en": "Is there anything I can take off your plate?", "ko": "제가 덜어드릴 수 있는 일이 있을까요?"},
+        {"en": "I appreciate you being candid with me.", "ko": "솔직하게 말씀해주셔서 감사합니다."}
+      ]
+    },
+    {
+      "category": "협상",
+      "title": "Pushing Back Professionally",
+      "titleKo": "프로페셔널하게 반대하기",
+      "keyExpression": {
+        "expression": "Something has to give",
+        "meaning": "뭔가는 포기해야 한다. 리소스·시간·범위 중 하나는 조정되어야 함"
+      },
+      "vocabulary": [
+        {"word": "push back on", "meaning": "~에 반대 의견 제시", "example": "I'd like to push back on that assumption."},
+        {"word": "with respect", "meaning": "외람되지만 (정중한 반대)", "example": "With respect, I think we're moving too fast."},
+        {"word": "align on", "meaning": "의견을 일치시키다", "example": "Let's align on the priorities first."},
+        {"word": "realistic", "meaning": "현실적인", "example": "Is that timeline realistic given the resources?"},
+        {"word": "trade-off", "meaning": "득실 교환", "example": "What's the trade-off if we go with option B?"}
+      ],
+      "sentences": [
+        {"en": "I hear you, and I'd like to offer a different perspective.", "ko": "이해했습니다. 다른 관점을 제시드리고 싶습니다."},
+        {"en": "Can we step back and align on what success looks like?", "ko": "한 걸음 물러나 성공의 모습을 먼저 합의할까요?"},
+        {"en": "I want to make sure we're not over-committing.", "ko": "과도한 약속을 하지 않도록 하고 싶습니다."},
+        {"en": "What would it take to make this work?", "ko": "이게 성사되려면 무엇이 필요할까요?"}
+      ]
+    },
+    {
+      "category": "일상 회화",
+      "title": "Coffee Chat with a Colleague",
+      "titleKo": "동료와의 커피챗",
+      "keyExpression": {
+        "expression": "Tell me about it",
+        "meaning": "완전 공감 (직역과 반대). 같은 경험을 했다는 강한 공감 표시"
+      },
+      "vocabulary": [
+        {"word": "grab a coffee", "meaning": "커피 한 잔 하다", "example": "Want to grab a coffee later?"},
+        {"word": "how's it going", "meaning": "잘 지내요?", "example": "Hey, how's it going?"},
+        {"word": "swamped", "meaning": "정신없이 바쁜", "example": "I've been swamped this week."},
+        {"word": "catch up", "meaning": "오랜만에 이야기 나누다", "example": "Let's catch up soon."},
+        {"word": "long weekend", "meaning": "연휴", "example": "Any plans for the long weekend?"}
+      ],
+      "sentences": [
+        {"en": "Hey, how's it going? Haven't seen you around.", "ko": "안녕하세요, 잘 지내시죠? 오랜만이네요."},
+        {"en": "Crazy week. How about you?", "ko": "정신없는 한 주예요. 그쪽은요?"},
+        {"en": "Any fun plans for the weekend?", "ko": "주말에 재밌는 계획 있어요?"},
+        {"en": "We should grab lunch one of these days.", "ko": "조만간 같이 점심 한 번 해요."}
+      ]
+    }
+  ]
+}
