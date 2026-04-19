@@ -88,8 +88,8 @@ def send_to_self(access_token: str, lesson: dict) -> dict:
         "object_type": "text",
         "text": text,
         "link": {
-            "web_url": "https://www.google.com",
-            "mobile_web_url": "https://www.google.com",
+            "web_url": "https://kouny1215-lang.github.io/daily-english-kakao",
+            "mobile_web_url": "https://kouny1215-lang.github.io/daily-english-kakao",
         },
         "button_title": "다시 보기",
     }
